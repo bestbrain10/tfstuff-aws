@@ -1,1 +1,3 @@
-# tfstuff-aws
+# Terraform for AWS
+
+[ ] Basic EC2 Creation
