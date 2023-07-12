@@ -1,3 +1,3 @@
 # Terraform for AWS
 
-[ ] Basic EC2 Creation
+- [ ] Basic EC2 Creation
